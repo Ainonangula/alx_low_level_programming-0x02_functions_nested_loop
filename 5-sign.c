@@ -11,16 +11,16 @@
       if (n > 0)
      {  
        _putchar ('+');
-      Return (1) 
+      Return (1); 
    } 
      else if (n == 0)
   {
      _putchar ('0') ;
-     Return (0)
+     Return (0);
     }
    else
      {
        _putchar ('-') ;
-       Return (-1)
+       Return (-1);
      }
   } 
