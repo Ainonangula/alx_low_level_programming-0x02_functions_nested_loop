@@ -4,8 +4,8 @@
  */
  void print_alphabet_x10(void)
 {   
-    int 10;
-    int la;
+    int ten;
+    char la;
 
     for ( 10 = 0 ; 10 <= 9 ; ten++) 
       { for (la ='a' ; la <= 'z' ;la++) 
